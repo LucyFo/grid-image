@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 438px 58px 0;
+    color: #60606e;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    background-color: #f39da9;
+}
+body * {
+    box-sizing: border-box
+}
+.wrapper {
+    width: 1360px;
+    margin: 0 auto;
+    padding: 38px 36px;
+    background-color: #fff;
+}
+img {
+    width: auto;
+    min-width: 100%;
+}
+header {
+    margin-bottom: 30px;
+}
+.row {
+    overflow: hidden;
+}
+.cell {
+    float: left;
+    padding: 10px 0 0 10px;
+}
+.no-float {
+    float: none;
+}
+.cell .size-50 {
+    width: 50%;
+}
+.cell .size-50 {
+    width: 50%;
+}
+.cell .size-33 {
+    width: 33, 3px;
+}
+.cell .size-25 {
+    width: 25%;
+}
+.cell .size-16 {
+    width: 16.67%;
+}
+.cell .size-8 {
+    width: 8, 3%;
+}
+.bottom-indent {
+    padding: 10px 10px;
+}
